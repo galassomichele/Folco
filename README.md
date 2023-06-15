@@ -1,1 +1,1 @@
-Folco/index.html
+index.html
